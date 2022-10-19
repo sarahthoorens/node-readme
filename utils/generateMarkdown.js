@@ -41,7 +41,6 @@ ${renderLicenseBadge(data)}
   6. [Tests](#Tests)
   7. [License](#License)
   <br>
-  ____________
   
   ## Description
 

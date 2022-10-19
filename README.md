@@ -1,11 +1,11 @@
 
-  # CLI-generated README
+  # CLI-generated README 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
   **Deployment Date:**  10/19/22<br>
-  **Technologies used:**  Node.js, JavaScript, nmp Inquirer package<br>
+  **Technologies used:**  Node.js, JavaScript, npm Inquirer package<br>
   **Project goal:**  Create a command-line application that dynamically generates a professional README<br>
 
 
@@ -18,11 +18,10 @@
   6. [Tests](#Tests)
   7. [License](#License)
   <br>
-  ____________
   
   ## Description
 
-  The instructions for this project were to create a high-quality readme template that would populate information provided by a user using Node CLI. Upon complete of the CLI questionnaire, the program successfully produces a README markdown file in the current working directory.
+  The instructions for this project were to create a high-quality README template that would populate information provided by a user using Node CLI. Upon completion of the CLI questionnaire, the program succesfully produces a README markdown file in the current working directory.
 
   ## Installation
 
@@ -30,7 +29,7 @@
 
   ## Usage 
  
-  in VSCode, navigate to the index.js file, open the integrated terminal and enter node index.js. Complete the cquestionnaire and wait for your completed readme to populate in the folder.
+  In VSCode, navigate to the index.js file, open the integrate terminal and enter node index.js. Complete the questionnaire and wait for your completed readme to populate in the folder.
 
   ## Contributing
 
@@ -38,7 +37,7 @@
  
   ## Challenges encountered
  
-  The biggest issue was getting the syntax down for writing the file, specifically figuring out from where to pull the data. I also had to remove the image prompt due to formatting issues, but I hope to add it in the future. 
+  The biggest issue was getting the syntax down for writing the file, specifically figuring out from where to pull the data. I also had to remove the image prompt due to formatting issues. I hope to add it back in the future.
 
   ## Tests
 
