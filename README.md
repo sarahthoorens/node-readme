@@ -10,8 +10,8 @@
 
 
   ## Table of Contents
-  1. [Project Description](##Description)
-  2. [Installation](##Installation)
+  1. [Project Description](#Description)
+  2. [Installation](#Installation)
   3. [Usage](#Usage)
   4. [Contribution Guidelines](#Contributing)
   5. [Challenges Encounted](#Challenges)
@@ -35,7 +35,7 @@
 
   Contributions are welcome. My contact information is below.
  
-  ## Challenges encountered
+  ## Challenges
  
   The biggest issue was getting the syntax down for writing the file, specifically figuring out from where to pull the data. I also had to remove the image prompt due to formatting issues. I hope to add it back in the future.
 

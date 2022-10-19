@@ -33,8 +33,8 @@ ${renderLicenseBadge(data)}
 
 
   ## Table of Contents
-  1. [Project Description](##Description)
-  2. [Installation](##Installation)
+  1. [Project Description](#Description)
+  2. [Installation](#Installation)
   3. [Usage](#Usage)
   4. [Contribution Guidelines](#Contributing)
   5. [Challenges Encounted](#Challenges)
@@ -58,7 +58,7 @@ ${renderLicenseBadge(data)}
 
   ${data.contribute}
  
-  ## Challenges encountered
+  ## Challenges
  
   ${data.challenges}
 
