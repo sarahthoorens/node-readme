@@ -58,11 +58,6 @@ inquirer
     message: 'How can other developers contribute to this project?',
     name: 'contribute',
 },
-// {
-//     type: 'input',
-//     message: 'Enter the relative path URL of a screenshot to your deployed project.',
-//     name: 'imgUrl',
-// },
 
 {
     type: 'input',
@@ -88,7 +83,7 @@ inquirer
 
   ])
 
-// TODO: Create a function to write README file
+// Function to write README file
 .then((response) => 
 fs.writeFile('README.md', markdown(response), 'utf-8', (err) =>
 err ? console.error(err) : console.log('Populating your README.'))
