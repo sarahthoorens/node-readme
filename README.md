@@ -5,7 +5,9 @@
 
 
   **Deployment Date:**  10/19/22 |
+  
   ** WALK-THROUGH CAN BE FOUND HERE: ** https://drive.google.com/file/d/1xGBVmggstEhNnbwOQi4cd8ki_7CZ_Djx/view?usp=sharing<br>
+  
   **Technologies used:**  Node.js, JavaScript, npm Inquirer package<br>
   **Project goal:**  Create a command-line application that dynamically generates a professional README<br>
 
